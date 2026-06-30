@@ -67,14 +67,6 @@ I am a self-taught developer from Vietnam who loves building applications, desig
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>GitHub Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/dutch25">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=dutch25&count_private=true&show_icons=true&theme=dracula&hide=prs,issues,contribs" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/dutch25">
@@ -82,21 +74,11 @@ I am a self-taught developer from Vietnam who loves building applications, desig
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center"><strong>Featured Project</strong></h3>
       <p align="center">
         <a href="https://github.com/dutch25/VietSource">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=dutch25&repo=VietSource&theme=dracula" alt="Featured Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
-      <p align="center">
-        <a href="https://github.com/dutch25">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=dutch25&limit=2&theme=dracula" alt="Top Contributions" />
         </a>
       </p>
     </td>
@@ -109,14 +91,6 @@ I am a self-taught developer from Vietnam who loves building applications, desig
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dutch25&theme=dracula&hide_border=false" alt="Activity Graph" />
 </div>
-
----
-
-<!--Daily Quote-->
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=282a36&author_color=ff79c6&accent_color=50fa7b" alt="Daily Quote" />
-</p>
 
 ---
 
