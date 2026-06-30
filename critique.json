@@ -1,0 +1,13 @@
+{
+  "kind": "critique-panel",
+  "score": 5,
+  "axes": {
+    "philosophy":   { "score": 5, "notes": "Tech/utility palette (neutral + green) fits IT portfolio. Terminal graphic in about section reinforces the domain. No drift." },
+    "hierarchy":    { "score": 4, "notes": "Hero lands name + thesis. Skills → Projects → About → CTA flows logically. Project cards have clear visual separation." },
+    "typography":   { "score": 5, "notes": "Inter system stack correct for tech/utility. Mono metadata, proper letter-spacing on caps (0.08em). Display negative tracking honored." },
+    "motion":       { "score": 4, "notes": "Staggered hero entrance at 0.8s ease. Reduced-motion guard applied. Button press microfeedback (1px translateY). Hamburger toggle animation." },
+    "specificity":  { "score": 5, "notes": "All content specific to Ha Minh Duc: real projects (EnglishTutor, CosmeticWeb, VietSource), real skills, real GitHub. No filler stats." },
+    "restraint":    { "score": 5, "notes": "Single green accent used on eyebrow + primary buttons only. No competing flourishes. Terminal graphic is one decisive visual move." }
+  },
+  "summary": "Polish pass: aria-hidden on icons, mobile hamburger nav, terminal overflow fix, project card hover states, skill tag hover feedback, duplicated media query merged."
+}
