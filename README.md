@@ -76,7 +76,7 @@ I am a self-taught developer from Vietnam who loves building applications, desig
       <h3 align="center"><strong>Featured Project</strong></h3>
       <p align="center">
         <a href="https://github.com/dutch25/VietSource">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=dutch25&repo=VietSource&theme=dracula" alt="Featured Project" />
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin?username=dutch25&repo=VietSource&theme=dracula" alt="Featured Project" />
         </a>
       </p>
     </td>
