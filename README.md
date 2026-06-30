@@ -1,6 +1,6 @@
 <!--Header Banner-->
 <div align="center">
-  <img src="./banner.png" alt="Anime Eye Banner" width="100%" />
+  <img src="./banner_resized.png" alt="Anime Eye Banner" width="100%" />
 </div>
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Martinator/Martinator/master/animated-waving-hand.gif" width="30"/> Hello there, I'm Ha Minh Duc!</h1>
