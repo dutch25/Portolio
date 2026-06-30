@@ -1,6 +1,6 @@
 <!--Header Banner-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,8&height=180&section=header&text=Ha%20Minh%20Duc&fontSize=50&fontAlignY=35" alt="Ha Minh Duc Banner" />
+  <img src="./banner.png" alt="Anime Eye Banner" width="100%" />
 </div>
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Martinator/Martinator/master/animated-waving-hand.gif" width="30"/> Hello there, I'm Ha Minh Duc!</h1>
