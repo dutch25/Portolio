@@ -5,7 +5,7 @@
 
 <!--Greeting & Illustration-->
 <div>
-  <img align="right" width="38%" src="./developer.png" alt="Developer Illustration">
+  <img align="right" width="38%" src="./developer_250105.png" alt="Developer Illustration">
 </div>
 
 # <img src="https://raw.githubusercontent.com/Martinator/Martinator/master/animated-waving-hand.gif" width="30"/> Hello there, I'm Ha Minh Duc! 
