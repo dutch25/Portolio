@@ -1,9 +1,9 @@
 <!--Header Banner-->
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,8&height=180&section=header&text=Ha%20Minh%20Duc&fontSize=50&fontAlignY=35" alt="Ha Minh Duc Banner" />
-</p>
+</div>
 
-# <img src="https://raw.githubusercontent.com/Martinator/Martinator/master/animated-waving-hand.gif" width="30"/> Hello there, I'm Ha Minh Duc! 
+<h1 align="left"><img src="https://raw.githubusercontent.com/Martinator/Martinator/master/animated-waving-hand.gif" width="30"/> Hello there, I'm Ha Minh Duc!</h1>
 
 <img align="right" width="32%" src="./developer_250105.png" alt="Developer Illustration" />
 
@@ -22,7 +22,7 @@ I am a self-taught developer from Vietnam who loves building applications, desig
   - [EnglishTutor](https://github.com/dutch25/EnglishTutor) - AI-powered platform for English learners.
   - [CosmeticWeb](https://github.com/dutch25/CosmeticWeb) - Web-based cosmetics sales management system.
 - 📫 Reach me at: **haminhduccp@gmail.com**
-- 💻 View my live [Portfolio website](https://portolio-dutch25.vercel.app) *(or your Vercel link once deployed)*
+- 💻 View my live [Portfolio website](https://portolio-three-bice.vercel.app)
 
 <!--Views Badge-->
 <p align="left">
