@@ -3,14 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,8&height=180&section=header&text=Ha%20Minh%20Duc&fontSize=50&fontAlignY=35" alt="Ha Minh Duc Banner" />
 </p>
 
-<!--Greeting & Illustration-->
-<div>
-  <img align="right" width="38%" src="./developer_250105.png" alt="Developer Illustration">
-</div>
-
 # <img src="https://raw.githubusercontent.com/Martinator/Martinator/master/animated-waving-hand.gif" width="30"/> Hello there, I'm Ha Minh Duc! 
+
+<img align="right" width="32%" src="./developer_250105.png" alt="Developer Illustration" />
+
 *Entry-Level Software Developer & Systems Enthusiast*
-<br /> 
+<br /><br />
 
 <!--Intro Section-->
 <p align="left">
